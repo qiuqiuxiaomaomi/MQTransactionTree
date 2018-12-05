@@ -6,6 +6,8 @@ MQ事务消息
 
 ![](https://i.imgur.com/PcVxQtd.png)
 
+![](https://i.imgur.com/VwPJyTE.png)
+
 <pre>
 发送事务消息为什么必须要实现回查 Check 机制？
 
